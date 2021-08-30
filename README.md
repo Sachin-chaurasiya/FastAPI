@@ -45,7 +45,7 @@ uvicorn blog.main:app --reload
 ```
 
 Now your project is running locally
-open your browser and visit [localhost:8000](localhost:8000)
+open your browser and visit [localhost:8000](http://localhost:8000)
 
 ### screenshots
 
