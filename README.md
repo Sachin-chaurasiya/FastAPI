@@ -1,4 +1,4 @@
-## Basic Blog API using FAST API Framework
+## Basic Blog API built with FAST API Framework
 
 ### Functionality
 
