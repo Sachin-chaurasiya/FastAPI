@@ -14,31 +14,31 @@
 
 ### how to run locally
 
-#### Clone the repo
+1. Clone the repo
 
 ```shell
 git clone https://github.com/Sachin-chaurasiya/FastAPI.git
 ```
 
-#### Create virtual environment
+2. Create virtual environment
 
 ```shell
 python3 -m venv env
 ```
 
-### Activate vertual environment
+3. Activate vertual environment
 
 ```shell
 source env/bin/activate
 ```
 
-### Install dependencies
+4. Install dependencies
 
 ```shell
 pip3 install -r requirements.txt
 ```
 
-### Start the server
+5. Start the server
 
 ```shell
 uvicorn blog.main:app --reload
